@@ -240,10 +240,8 @@ a{
 }
 
 .cards{
-    display: flex;
-    
+    display: flex;    
     flex-direction: column;
-    overflow-x:hidden;
 
     
     
