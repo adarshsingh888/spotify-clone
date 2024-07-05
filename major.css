@@ -40,7 +40,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 0  1.5rem 0 1.5rem ;
-    overflow-x:none;
+    overflow-x:hidden;
     
 }
 .music-player{
